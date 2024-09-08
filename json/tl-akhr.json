@@ -3632,7 +3632,7 @@
 			"输出"
 		],
 		"hidden": false,
-		"globalHidden": true
+		"globalHidden": false
 	},
 	{
 		"id": "char_271_spikes",
@@ -3653,7 +3653,7 @@
 			"输出"
 		],
 		"hidden": false,
-		"globalHidden": true
+		"globalHidden": false
 	},
 	{
 		"id": "char_388_mint",
@@ -3698,7 +3698,7 @@
 			"输出"
 		],
 		"hidden": false,
-		"globalHidden": true
+		"globalHidden": false
 	},
 	{
 		"id": "char_423_blemsh",
