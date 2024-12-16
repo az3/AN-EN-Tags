@@ -1802,6 +1802,162 @@
         "enemyLevelType": null,
         "enemyTag": null,
         "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4142_laios",
+        "sourceMode": null,
+        "enemyId": "enemy_1018_aoemag",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4088_hodrer",
+        "sourceMode": null,
+        "enemyId": "enemy_1207_sfji",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4145_ulpia",
+        "sourceMode": null,
+        "enemyId": "enemy_1152_dsurch",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4063_quartz",
+        "sourceMode": null,
+        "enemyId": "enemy_1161_tidmag",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4088_hodrer",
+        "sourceMode": null,
+        "enemyId": null,
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": "BOSS",
+        "enemyTag": null,
+        "logAlias": "char_4088_hodrer,BOSS,ELITE"
+      },
+      {
+        "description": null,
+        "sourceId": "char_4088_hodrer",
+        "sourceMode": null,
+        "enemyId": null,
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": "ELITE",
+        "enemyTag": null,
+        "logAlias": "char_4088_hodrer,BOSS,ELITE"
+      },
+      {
+        "description": null,
+        "sourceId": "char_487_bobb",
+        "sourceMode": null,
+        "enemyId": null,
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": "ELITE",
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_350_surtr",
+        "sourceMode": null,
+        "enemyId": "enemy_1500_skulsr",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_4098_vvana",
+        "sourceMode": null,
+        "enemyId": null,
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": "BOSS",
+        "enemyTag": null,
+        "logAlias": "char_4098_vvana,BOSS,ELITE"
+      },
+      {
+        "description": null,
+        "sourceId": "char_4098_vvana",
+        "sourceMode": null,
+        "enemyId": null,
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": "ELITE",
+        "enemyTag": null,
+        "logAlias": "char_4098_vvana,BOSS,ELITE"
+      },
+      {
+        "description": null,
+        "sourceId": "char_4098_vvana",
+        "sourceMode": null,
+        "enemyId": "enemy_1103_wdkght_3",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_1001_amiya2",
+        "sourceMode": null,
+        "enemyId": "enemy_1500_skulsr",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
+      },
+      {
+        "description": null,
+        "sourceId": "char_274_astesi",
+        "sourceMode": null,
+        "enemyId": "enemy_1254_lypa",
+        "enemyApplyWay": null,
+        "projectileName": null,
+        "abilityName": null,
+        "enemyLevelType": null,
+        "enemyTag": null,
+        "logAlias": null
       }
     ]
   },
@@ -1944,5 +2100,11 @@
         "logAlias": null
       }
     ]
+  },
+  "OUTOUT_ELEMENT_DAMAGE_TOTAL": {
+    "data": []
+  },
+  "OUTOUT_EP_BREAK_CNT": {
+    "data": []
   }
 }

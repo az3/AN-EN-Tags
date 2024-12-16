@@ -78,7 +78,8 @@
         "value": 0.0,
         "valueStr": "(4,6)"
       }
-    ]
+    ],
+    "enemyTauntLevelPow": 0
   },
   "levelId": "[dev]test/level_training",
   "mapId": null,
@@ -2417,6 +2418,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2440,6 +2442,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2475,6 +2478,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2498,6 +2502,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2533,6 +2538,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2556,6 +2562,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2591,6 +2598,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2614,6 +2622,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2649,6 +2658,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2672,6 +2682,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2707,6 +2718,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2730,6 +2742,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2765,6 +2778,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2788,6 +2802,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2823,6 +2838,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2846,6 +2862,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2881,6 +2898,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2904,6 +2922,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2939,6 +2958,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2962,6 +2982,7 @@
               "refreshType": "ALWAYS",
               "weight": 50,
               "dontBlockWave": false,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -2989,5 +3010,6 @@
   "excludeCharIdList": null,
   "randomSeed": 1229321990,
   "operaConfig": null,
+  "cameraPlugin": null,
   "runtimeData": null
 }

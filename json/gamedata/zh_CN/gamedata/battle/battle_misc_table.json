@@ -465,6 +465,96 @@
       "sceneId": "Obt/Legion/LT14/level_lt14_06",
       "hookedMapPreviewId": "lt_14_06"
     },
+    "Obt/Legion/LT15/level_lt15_01_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_01_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_01",
+      "hookedMapPreviewId": "lt_15_01"
+    },
+    "Obt/Legion/LT15/level_lt15_02_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_02_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_02",
+      "hookedMapPreviewId": "lt_15_02"
+    },
+    "Obt/Legion/LT15/level_lt15_03_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_03_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_03",
+      "hookedMapPreviewId": "lt_15_03"
+    },
+    "Obt/Legion/LT15/level_lt15_04_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_04_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_04",
+      "hookedMapPreviewId": "lt_15_04"
+    },
+    "Obt/Legion/LT15/level_lt15_05_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_05_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_05",
+      "hookedMapPreviewId": "lt_15_05"
+    },
+    "Obt/Legion/LT15/level_lt15_06_ex": {
+      "levelId": "Obt/Legion/LT15/level_lt15_06_ex",
+      "sceneId": "Obt/Legion/LT15/level_lt15_06",
+      "hookedMapPreviewId": "lt_15_06"
+    },
+    "Obt/Legion/LT16/level_lt16_01_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_01_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_01",
+      "hookedMapPreviewId": "lt_16_01"
+    },
+    "Obt/Legion/LT16/level_lt16_02_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_02_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_02",
+      "hookedMapPreviewId": "lt_16_02"
+    },
+    "Obt/Legion/LT16/level_lt16_03_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_03_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_03",
+      "hookedMapPreviewId": "lt_16_03"
+    },
+    "Obt/Legion/LT16/level_lt16_04_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_04_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_04",
+      "hookedMapPreviewId": "lt_16_04"
+    },
+    "Obt/Legion/LT16/level_lt16_05_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_05_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_05",
+      "hookedMapPreviewId": "lt_16_05"
+    },
+    "Obt/Legion/LT16/level_lt16_06_ex": {
+      "levelId": "Obt/Legion/LT16/level_lt16_06_ex",
+      "sceneId": "Obt/Legion/LT16/level_lt16_06",
+      "hookedMapPreviewId": "lt_16_06"
+    },
+    "Obt/Legion/LT17/level_lt17_01_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_01_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_01",
+      "hookedMapPreviewId": "lt_17_01"
+    },
+    "Obt/Legion/LT17/level_lt17_02_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_02_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_02",
+      "hookedMapPreviewId": "lt_17_02"
+    },
+    "Obt/Legion/LT17/level_lt17_03_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_03_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_03",
+      "hookedMapPreviewId": "lt_17_03"
+    },
+    "Obt/Legion/LT17/level_lt17_04_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_04_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_04",
+      "hookedMapPreviewId": "lt_17_04"
+    },
+    "Obt/Legion/LT17/level_lt17_05_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_05_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_05",
+      "hookedMapPreviewId": "lt_17_05"
+    },
+    "Obt/Legion/LT17/level_lt17_06_ex": {
+      "levelId": "Obt/Legion/LT17/level_lt17_06_ex",
+      "sceneId": "Obt/Legion/LT17/level_lt17_06",
+      "hookedMapPreviewId": "lt_17_06"
+    },
     "Obt/Main/level_easy_09-01": {
       "levelId": "Obt/Main/level_main_09-01",
       "sceneId": "Obt/Main/level_main_09-01",
@@ -1388,6 +1478,291 @@
     "Obt/Sandbox/sandbox_1/level_sandbox1_43_t": {
       "levelId": "Obt/Sandbox/sandbox_1/level_sandbox1_43_t",
       "sceneId": "Obt/Sandbox/sandbox_1/level_sandbox1_43",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/level_rogue4_b-4-c": {
+      "levelId": "Obt/Roguelike/RO4/level_rogue4_b-4-c",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/level_rogue4_b-4-d": {
+      "levelId": "Obt/Roguelike/RO4/level_rogue4_b-4-d",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-4-b",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/level_rogue4_b-5-c": {
+      "levelId": "Obt/Roguelike/RO4/level_rogue4_b-5-c",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/level_rogue4_b-5-d": {
+      "levelId": "Obt/Roguelike/RO4/level_rogue4_b-5-d",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-5-b",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_1-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_1-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_1-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_1-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_1-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_2-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_2-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_2-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_2-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_2-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_2-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-6_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_3-6_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_3-6",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-6_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-6_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-6",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-7_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_4-7_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_4-7",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-6_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-6_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-6",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-7_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_5-7_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_5-7",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_6-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_6-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_6-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_6-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_6-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_6-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1-b_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1-b_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-1-b",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1-c_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-1-c_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-1-c",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2-b_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2-b_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-2-b",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2-c_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-2-c_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-2-c",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3-b_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3-b_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-3-b",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3-c_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-3-c_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-3-c",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-6_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_b-6_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_b-6",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-2",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-3_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-3_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-3",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-4_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-4_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-4",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-5_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-5_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-5",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-6_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-6_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-6",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-7_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-7_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-7",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-8_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_t-8_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_t-8",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_ev-1_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_ev-1_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_ev-1",
+      "hookedMapPreviewId": null
+    },
+    "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_ev-2_r1": {
+      "levelId": "Obt/Roguelike/RO4/LevelReplacers/level_rogue4_ev-2_r1",
+      "sceneId": "Obt/Roguelike/RO4/level_rogue4_ev-2",
       "hookedMapPreviewId": null
     }
   },
@@ -6150,6 +6525,57 @@
       "ascln_skill_02_start_02",
       "ascln_skill_02_start_03"
     ],
+    "skchr_marcil_2": [
+      "marcil_skill_03_range_01",
+      "marcil_skill_03_range_02",
+      "marcil_skill_03_range_03"
+    ],
+    "skchr_marcil_3": [
+      "marcil_skill_01_buff_01",
+      "marcil_skill_01_chant_01",
+      "marcil_skill_01_chant_end_01",
+      "marcil_skill_01_heal_01",
+      "marcil_skill_01_heal_start_01",
+      "marcil_skill_01_hit_range_01",
+      "marcil_skill_01_hit_range_small_01",
+      "marcil_skill_01_start_01",
+      "marcil_skill_02_buff_01",
+      "marcil_skill_02_buff_02",
+      "marcil_skill_02_chant_01",
+      "marcil_skill_02_chant_end_01",
+      "marcil_skill_02_hit_01",
+      "marcil_skill_02_hit_02",
+      "marcil_skill_02_hit_range_01",
+      "marcil_skill_02_hit_range_02",
+      "marcil_skill_02_hit_range_small_01",
+      "marcil_skill_02_hit_range_small_02",
+      "marcil_skill_02_start_01",
+      "marcil_skill_02_start_02",
+      "marcil_skill_02_trail_01",
+      "marcil_skill_02_trail_02"
+    ],
+    "skchr_marcil_1": [
+      "marcil_skill_02_buff_01",
+      "marcil_skill_02_buff_02",
+      "marcil_skill_02_chant_01",
+      "marcil_skill_02_chant_end_01",
+      "marcil_skill_02_hit_01",
+      "marcil_skill_02_hit_02",
+      "marcil_skill_02_hit_range_01",
+      "marcil_skill_02_hit_range_02",
+      "marcil_skill_02_hit_range_small_01",
+      "marcil_skill_02_hit_range_small_02",
+      "marcil_skill_02_start_01",
+      "marcil_skill_02_start_02",
+      "marcil_skill_02_trail_01",
+      "marcil_skill_02_trail_02",
+      "marcil_skill_03_chant_01",
+      "marcil_skill_03_chant_02",
+      "marcil_skill_03_chant_end_01",
+      "marcil_skill_03_range_01",
+      "marcil_skill_03_range_02",
+      "marcil_skill_03_range_03"
+    ],
     "skchr_amiya3_1": [
       "amiya3_skill_02_buff",
       "amiya3_skill_02_buff_02",
@@ -6272,6 +6698,43 @@
       "nymph_skill_03_start",
       "nymph_skill_03_trail"
     ],
+    "skchr_sensi_1": [
+      "sensi_skill_02_buff_01",
+      "sensi_skill_02_buff_02",
+      "sensi_skill_02_emoji_01",
+      "sensi_skill_02_emoji_02",
+      "sensi_skill_02_emoji_03",
+      "sensi_skill_02_emoji_04",
+      "sensi_skill_02_range_01",
+      "sensi_skill_02_start_01"
+    ],
+    "skchr_sensi_2": [
+      "sensi_skill_01_buff_01",
+      "sensi_skill_01_buff_02",
+      "sensi_skill_01_buff_03",
+      "sensi_skill_01_hit_01",
+      "sensi_skill_01_start_01",
+      "sensi_skill_01_start_02",
+      "sensi_skill_01_start_02_02",
+      "sensi_skill_01_start_03",
+      "sensi_skill_01_start_03_02",
+      "sensi_skill_01_start_04",
+      "sensi_skill_01_start_04_02"
+    ],
+    "skchr_laios_1": [
+      "laios_skill_02_end_B",
+      "laios_skill_02_end_F",
+      "laios_skill_02_hit",
+      "laios_skill_02_loop",
+      "laios_skill_02_start_B",
+      "laios_skill_02_start_F"
+    ],
+    "skchr_laios_2": [
+      "laios_skill_01_buff",
+      "laios_skill_01_end_01",
+      "laios_skill_01_start_01",
+      "laios_skill_01_start_02"
+    ],
     "skchr_nymph_3": [
       "nymph_skill_01_buff",
       "nymph_skill_01_hit",
@@ -6323,6 +6786,333 @@
     ],
     "skchr_mitm_2": [
       "mitm_skill_01_hit_01"
+    ],
+    "skchr_cathy_1": [
+      "cathy_skill_02_buff"
+    ],
+    "skchr_cathy_2": [
+      "cathy_skill_01_buff",
+      "cathy_skill_01_hit_01",
+      "cathy_skill_01_start_01"
+    ],
+    "skchr_whitw2_1": [
+      "whitw2_skill_02_buff_01",
+      "whitw2_skill_02_range_01",
+      "whitw2_skill_02_range_01_end",
+      "whitw2_skill_02_start_01",
+      "whitw2_skill_02_start_02",
+      "whitw2_skill_02_start_03",
+      "whitw2_skill_02_trail_01",
+      "whitw2_skill_03_buff_01",
+      "whitw2_skill_03_buff_start",
+      "whitw2_skill_03_mark_01",
+      "whitw2_skill_03_mark_02",
+      "whitw2_skill_03_start_01",
+      "whitw2_skill_03_token_hit_01",
+      "whitw2_skill_03_token_trail_01",
+      "whitw2_skill_03_trail_01"
+    ],
+    "skchr_whitw2_2": [
+      "whitw2_skill_01_buff_01",
+      "whitw2_skill_01_start_01",
+      "whitw2_skill_01_trail_01",
+      "whitw2_skill_03_buff_01",
+      "whitw2_skill_03_buff_start",
+      "whitw2_skill_03_mark_01",
+      "whitw2_skill_03_mark_02",
+      "whitw2_skill_03_start_01",
+      "whitw2_skill_03_token_hit_01",
+      "whitw2_skill_03_token_trail_01",
+      "whitw2_skill_03_trail_01"
+    ],
+    "skchr_whitw2_3": [
+      "whitw2_skill_01_buff_01",
+      "whitw2_skill_01_start_01",
+      "whitw2_skill_01_trail_01",
+      "whitw2_skill_02_buff_01",
+      "whitw2_skill_02_range_01",
+      "whitw2_skill_02_range_01_end",
+      "whitw2_skill_02_start_01",
+      "whitw2_skill_02_start_02",
+      "whitw2_skill_02_start_03",
+      "whitw2_skill_02_trail_01"
+    ],
+    "skchr_crosly_1": [
+      "crosly_skill_02_birth_start",
+      "crosly_skill_02_buff",
+      "crosly_skill_02_end_hit",
+      "crosly_skill_02_range",
+      "crosly_skill_03_birth_start",
+      "crosly_skill_03_buff",
+      "crosly_skill_03_end_start",
+      "crosly_skill_03_hit",
+      "crosly_skill_03_hit_02",
+      "crosly_skill_03_range"
+    ],
+    "skchr_crosly_3": [
+      "crosly_skill_01_a_start",
+      "crosly_skill_01_buff",
+      "crosly_skill_01_b_start",
+      "crosly_skill_01_hit",
+      "crosly_skill_02_birth_start",
+      "crosly_skill_02_buff",
+      "crosly_skill_02_end_hit",
+      "crosly_skill_02_range"
+    ],
+    "skchr_crosly_2": [
+      "crosly_skill_01_a_start",
+      "crosly_skill_01_buff",
+      "crosly_skill_01_b_start",
+      "crosly_skill_01_hit",
+      "crosly_skill_03_birth_start",
+      "crosly_skill_03_buff",
+      "crosly_skill_03_end_start",
+      "crosly_skill_03_hit",
+      "crosly_skill_03_hit_02",
+      "crosly_skill_03_range"
+    ],
+    "skchr_vulpis_1": [
+      "vulpis_skill_02_hit_01",
+      "vulpis_skill_02_start_01",
+      "vulpis_skill_02_start_02",
+      "vulpis_skill_02_start_03",
+      "vulpis_skill_02_start_03_folder",
+      "vulpis_skill_03_buff_01",
+      "vulpis_skill_03_hit_01",
+      "vulpis_skill_03_start_01",
+      "vulpis_skill_03_start_02"
+    ],
+    "skchr_vulpis_2": [
+      "vulpis_skill_01_hit_01",
+      "vulpis_skill_01_start_01",
+      "vulpis_skill_03_buff_01",
+      "vulpis_skill_03_hit_01",
+      "vulpis_skill_03_start_01",
+      "vulpis_skill_03_start_02",
+      "vulpis_skill_03_start_02_down",
+      "vulpis_skill_03_start_02_up"
+    ],
+    "skchr_ctrail_1": [
+      "ctrail_skill_02_buff_01",
+      "ctrail_skill_02_hit",
+      "ctrail_skill_02_start_01",
+      "ctrail_skill_02_trail"
+    ],
+    "skchr_ctrail_2": [
+      "ctrail_skill_01_buff_01",
+      "ctrail_skill_01_hit"
+    ],
+    "skchr_philae_1": [
+      "philae_skill_02_buff_01",
+      "philae_skill_02_buff_02",
+      "philae_skill_02_hit_01",
+      "philae_skill_02_hit_02",
+      "philae_skill_02_start_01",
+      "philae_skill_02_start_02"
+    ],
+    "skchr_philae_2": [
+      "philae_skill_01_start_01",
+      "philae_skill_01_start_02"
+    ],
+    "skchr_rosesa_1": [
+      "rosesa_skill_02_buff_01"
+    ],
+    "skchr_rosesa_2": [
+      "rosesa_skill_01_start_01"
+    ],
+    "skchr_tecno_1": [
+      "tecno_skill_02_buff_01",
+      "tecno_skill_02_hit_01",
+      "tecno_skill_02_range_01",
+      "tecno_skill_02_start_01",
+      "tecno_skill_02_trail_01"
+    ],
+    "skchr_tecno_2": [
+      "tecno_skill_01_buff_01",
+      "tecno_skill_01_hit_01",
+      "tecno_skill_01_start_01",
+      "tecno_skill_01_trail_01"
+    ],
+    "skill_acmedc_1": [
+      "acmedc_skill_02_buff",
+      "acmedc_skill_03_buff"
+    ],
+    "skchr_acmedc_1": [
+      "acmedc_skill_02_buff",
+      "acmedc_skill_03_buff"
+    ],
+    "skchr_acmedc_2": [
+      "acmedc_skill_01_buff",
+      "acmedc_skill_03_buff"
+    ],
+    "skchr_acmedc_3": [
+      "acmedc_skill_01_buff",
+      "acmedc_skill_02_buff"
+    ],
+    "skchr_acguad_1": [
+      "acguad_skill_02_hit",
+      "acguad_skill_02_start",
+      "acguad_skill_03_buff"
+    ],
+    "skchr_acguad_3": [
+      "acguad_skill_01_buff",
+      "acguad_skill_02_hit",
+      "acguad_skill_02_start"
+    ],
+    "skchr_acsupo_1": [
+      "acsupo_skill_02_buff",
+      "acsupo_skill_03_buff"
+    ],
+    "skchr_acsupo_2": [
+      "acsupo_skill_01_buff",
+      "acsupo_skill_03_buff"
+    ],
+    "skchr_acsupo_3": [
+      "acsupo_skill_01_buff",
+      "acsupo_skill_02_buff"
+    ],
+    "skchr_acfend_2": [
+      "acfend_skill_01_buff"
+    ],
+    "skchr_acfend_3": [
+      "acfend_skill_01_buff"
+    ],
+    "skchr_acspec_2": [
+      "acspec_skill_01_buff",
+      "acspec_skill_03_hit",
+      "acspec_skill_03_range"
+    ],
+    "skchr_acspec_3": [
+      "acspec_skill_01_buff",
+      "acspec_skill_02_buff"
+    ],
+    "skchr_acspec_1": [
+      "acspec_skill_02_buff",
+      "acspec_skill_03_hit",
+      "acspec_skill_03_range"
     ]
+  },
+  "miscConfig": {
+    "AUTOCHESS": {
+      "act1vautochess": {
+        "idleEffectMap": {
+          "token_10030_mlyss_wtrman": "token_10030_mlyss_wtrman_c0",
+          "token_10028_vigil_wolf": "vigil_token_ghost"
+        },
+        "defaultAnimMap": {
+          "token_10030_mlyss_wtrman": "Idle",
+          "token_10028_vigil_wolf": "Idle"
+        },
+        "enemyPreviewBuff": {
+          "attributes": {
+            "abnormalFlags": [
+              22,
+              20,
+              3,
+              7,
+              5,
+              18,
+              1
+            ],
+            "abnormalImmunes": [],
+            "abnormalAntis": [],
+            "abnormalCombos": [],
+            "abnormalComboImmunes": [],
+            "attributeModifiers": []
+          },
+          "buffKey": "[AutoChess] unmoveable",
+          "loadFromDB": false,
+          "isDurableBuff": false,
+          "isDamageMissable": false,
+          "isSilenceable": false,
+          "isStunnable": false,
+          "isFreezable": false,
+          "isLevitatable": false,
+          "statusResistable": 2,
+          "templateKey": "empty",
+          "disableOverride": false,
+          "overrideKey": "",
+          "overrideType": 0,
+          "maxStackCnt": 1,
+          "refreshRemainingTimeWhenStackMax": false,
+          "clearAllStackCntWhenTimeUp": false,
+          "maxValidStackCnt": -1,
+          "independentCharacterSource": false,
+          "overrideEffectKey": "",
+          "overrideOnEventPriority": false,
+          "onEventPriority": 0,
+          "audioSignal": "",
+          "lifeTimeType": 2,
+          "takeSnapshotWhenExtend": false,
+          "durationKey": "",
+          "lifeTime": 0.0,
+          "triggerLifeType": 0,
+          "triggerCnt": 0,
+          "triggerInterval": -1.0,
+          "waitFirstTriggerInterval": true,
+          "firstTriggerInterval": -1.0,
+          "priority": -1,
+          "priorityBBKeys": [],
+          "stripBlackboardParamsWithBuffKey": false,
+          "blackboard": [],
+          "showOverrideOptions": true,
+          "isNotLoadFromDB": true,
+          "isOverrideOnEventPriority": false,
+          "isLifeTimeLimited": false,
+          "isNotTriggerLifeTypeImmediately": false,
+          "isWaitFirstTriggerInterval": false,
+          "isTriggerLifeTypeLimited": false,
+          "isExtendBuff": false,
+          "isAutoPriority": true
+        },
+        "frozenEffectId": "buff_autochess_frozen",
+        "goldenEffectId": "trap_acgarm_buff_loop_01",
+        "mlyssWtrmanTransformBuff": "mlyss_wtrman_during_anim",
+        "tutorialBuy2ndCharShopCnt": 2,
+        "tutorialBuy3rdCharShopCnt": 1,
+        "tutorialBuy2ndCharOwnedCnt": 1,
+        "tutorialBuy3rdCharOwnedCnt": 2,
+        "tutorialBuy2ndequipShopCnt": 1,
+        "tutorialBuy2ndequipOwnedCnt": 1,
+        "sceneEffectMap": {
+          "EFFECT_REFRESH": {
+            "effectId": "map_act1vautochess_refresh_01"
+          },
+          "EFFECT_GAIN_CHESS": {
+            "effectId": "trap_acgarm_start_01"
+          },
+          "EFFECT_DESTORY_EQUIP": {
+            "effectId": "trap_acgarm_die_01"
+          },
+          "EFFECT_CHARACTER_DISAPPEAR": {
+            "effectId": "trap_acgarm_die_01"
+          },
+          "EFFECT_STRENGTH": {
+            "effectId": "trap_acgarm_start_01_up"
+          },
+          "EFFECT_GOLD_COST_REDUCE": {
+            "effectId": "trap_acgarm_buff_05"
+          },
+          "EFFECT_GOLDEN_CHESS": {
+            "effectId": "trap_acgarm_buff_loop_01"
+          },
+          "EFFECT_FROZEN_TRAP": {
+            "effectId": "buff_autochess_frozen"
+          },
+          "EFFECT_DUPLICATE_CHARACTER": {
+            "effectId": "trap_acgarm_buff_loop_02"
+          },
+          "EFFECT_UPGRADE_TILE": {
+            "effectId": "map_act1vautochess_levelup_01"
+          },
+          "EFFECT_EXP_CHANGED": {
+            "effectId": "trap_acgarm_buff_05"
+          },
+          "EFFECT_UPGRADE_LINKED": {
+            "effectId": "trap_acgarm_start_01_up_trail"
+          }
+        }
+      }
+    }
   }
 }

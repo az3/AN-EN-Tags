@@ -553,19 +553,19 @@
 		[
 			{
 				"name": "Fair Warning",
-				"desc": "When there are enemies under the active effect of Apoptosis within Attack Range, ATK +10%"
+				"desc": "When there are enemies under Apoptosis Burst within Attack Range, ATK +10%"
 			},
 			{
 				"name": "Fair Warning",
-				"desc": "When there are enemies under the active effect of Apoptosis within Attack Range, ATK +13% (+3%)"
+				"desc": "When there are enemies under Apoptosis Burst within Attack Range, ATK +13% (+3%)"
 			},
 			{
 				"name": "Fair Warning",
-				"desc": "When there are enemies under the active effect of Apoptosis within Attack Range, ATK +18%"
+				"desc": "When there are enemies under Apoptosis Burst within Attack Range, ATK +18%"
 			},
 			{
 				"name": "Fair Warning",
-				"desc": "When there are enemies under the active effect of Apoptosis within Attack Range, ATK +21% (+3%)"
+				"desc": "When there are enemies under Apoptosis Burst within Attack Range, ATK +21% (+3%)"
 			}
 		]
 	],
@@ -573,19 +573,19 @@
 		[
 			{
 				"name": "Inevitable Spillage",
-				"desc": "When enemies within Attack Range trigger the active effect of Burn, immediately deal 200% Elemental damage to them"
+				"desc": "When enemies within Attack Range trigger Burn Burst, immediately deal 200% Elemental damage to them"
 			},
 			{
 				"name": "Inevitable Spillage",
-				"desc": "When enemies within Attack Range trigger the active effect of Burn, immediately deal 220% (+20%) Elemental damage to them"
+				"desc": "When enemies within Attack Range trigger Burn Burst, immediately deal 220% (+20%) Elemental damage to them"
 			},
 			{
 				"name": "Inevitable Spillage",
-				"desc": "When enemies within Attack Range trigger the active effect of Burn, immediately deal 300% Elemental damage to them"
+				"desc": "When enemies within Attack Range trigger Burn Burst, immediately deal 300% Elemental damage to them"
 			},
 			{
 				"name": "Inevitable Spillage",
-				"desc": "When enemies within Attack Range trigger the active effect of Burn, immediately deal 320% (+20%) Elemental damage to them"
+				"desc": "When enemies within Attack Range trigger Burn Burst, immediately deal 320% (+20%) Elemental damage to them"
 			}
 		]
 	],
@@ -942,6 +942,84 @@
 			{
 				"name": "Soul-shearing Tools",
 				"desc": "Attacks inflict -10 RES to the target and increase their Arts damage taken by 165 (+15) for 5 seconds"
+			}
+		]
+	],
+	"char_4146_nymph": [
+		[
+			{
+				"name": "Soulless",
+				"desc": "When attacking enemies under Apoptosis Burst, cause them to receive 30% Elemental damage every second until the Apoptosis Burst ends"
+			},
+			{
+				"name": "Soulless",
+				"desc": "When attacking enemies under Apoptosis Burst, cause them to receive 40% Elemental damage every second until the Apoptosis Burst ends"
+			}
+		],
+		[
+			{
+				"name": "Heart-Scouring Key",
+				"desc": "When an enemy within Attack Range triggers Apoptosis Burst, gain ATK +2% (stacks up to 10 layers)"
+			},
+			{
+				"name": "Heart-Scouring Key",
+				"desc": "When an enemy within Attack Range triggers Apoptosis Burst, gain ATK +2% (stacks up to 12 (+2) layers)"
+			}
+		]
+	],
+	"char_4141_marcil": [
+		[
+			{
+				"name": "First Prodigy of her Magic School since its Founding",
+				"desc": "Skills consume MP and can be activated at any time. MP does not recover naturally, instead 1 MP is gained every second when not deployed. When possessing MP, ATK +10% and increase attack splash area"
+			},
+			{
+				"name": "First Prodigy of her Magic School since its Founding",
+				"desc": "Skills consume MP and can be activated at any time. MP does not recover naturally, instead 1 MP is gained every second when not deployed. When possessing MP, ATK +15% (+5%) and increase attack splash area"
+			},
+			{
+				"name": "First Prodigy of her Magic School since its Founding",
+				"desc": "Skills consume MP and can be activated at any time. MP does not recover naturally, instead 1 MP is gained every second when not deployed. When possessing MP, ATK +20% and increase attack splash area"
+			},
+			{
+				"name": "First Prodigy of her Magic School since its Founding",
+				"desc": "Skills consume MP and can be activated at any time. MP does not recover naturally, instead 1 MP is gained every second when not deployed. When possessing MP, ATK +25% (+5%) and increase attack splash area"
+			}
+		],
+		[
+			{
+				"name": "Reliable Companions",
+				"desc": "Initial MP +25. When there are 4 operators from [Team Laios] in the team, all [Team Laios] operators gain Attack Speed +25, DEF +35%"
+			}
+		]
+	],
+	"char_1038_whitw2": [
+		[
+			{
+				"name": "Wolfhead",
+				"desc": "Every 30 seconds after deployment, Lappland's Float Units gain one of the following effects in order: Damage upper limit increases by 6%; Attacks Silence the target for 1 second; Number +1"
+			},
+			{
+				"name": "Wolfhead",
+				"desc": "Every 26 (-4) seconds after deployment, Lappland's Float Units gain one of the following effects in order: Damage upper limit increases by 6%; Attacks Silence the target for 1 second; Number +1"
+			},
+			{
+				"name": "Wolfhead",
+				"desc": "Every 20 seconds after deployment, Lappland's Float Units gain one of the following effects in order: Damage upper limit increases by 10%; Attacks Silence the target for 2 seconds; Number +1"
+			},
+			{
+				"name": "Wolfhead",
+				"desc": "Every 16 (-4) seconds after deployment, Lappland's Float Units gain one of the following effects in order: Damage upper limit increases by 10%; Attacks Silence the target for 2 seconds; Number +1"
+			}
+		],
+		[
+			{
+				"name": "The Pride of Siracusa",
+				"desc": "When in team, all [Siracusa] operators gain +5 initial SP"
+			},
+			{
+				"name": "The Pride of Siracusa",
+				"desc": "When in team, all [Siracusa] operators gain +6 (+1) initial SP"
 			}
 		]
 	],
@@ -1427,6 +1505,58 @@
 			}
 		]
 	],
+	"char_4137_udflow": [
+		[
+			{
+				"name": "Cellular Activity Inhibitor",
+				"desc": "Attacks cause the target to receive 40 Arts damage every second for 3 seconds (doubled damage against [Seaborn] enemies)"
+			},
+			{
+				"name": "Cellular Activity Inhibitor",
+				"desc": "Attacks cause the target to receive 50 (+10) Arts damage every second for 3 seconds (doubled damage against [Seaborn] enemies)"
+			},
+			{
+				"name": "Cellular Activity Inhibitor",
+				"desc": "Attacks cause the target to receive 80 Arts damage every second for 3 seconds (doubled damage against [Seaborn] enemies)"
+			},
+			{
+				"name": "Cellular Activity Inhibitor",
+				"desc": "Attacks cause the target to receive 90 (+10) Arts damage every second for 3 seconds (doubled damage against [Seaborn] enemies)"
+			}
+		]
+	],
+	"char_4143_sensi": [
+		[
+			{
+				"name": "Decade-Long Monster Meals Experience",
+				"desc": "DEF +5%, self heal amount +5%"
+			},
+			{
+				"name": "Decade-Long Monster Meals Experience",
+				"desc": "DEF +10%, self heal amount +10%"
+			}
+		]
+	],
+	"char_4148_philae": [
+		[
+			{
+				"name": "Divine River's Envoy",
+				"desc": "Elemental Impairment received -5%. When receiving Apoptosis Impairment, recover 1 SP"
+			},
+			{
+				"name": "Divine River's Envoy",
+				"desc": "Elemental Impairment received -7% (+2%). When receiving Apoptosis Impairment, recover 1 SP"
+			},
+			{
+				"name": "Divine River's Envoy",
+				"desc": "Elemental Impairment received -10%. When receiving Apoptosis Impairment, recover 2 SP"
+			},
+			{
+				"name": "Divine River's Envoy",
+				"desc": "Elemental Impairment received -12% (+2%). When receiving Apoptosis Impairment, recover 2 SP"
+			}
+		]
+	],
 	"char_136_hsguma": [
 		[
 			{
@@ -1617,11 +1747,11 @@
 		[
 			{
 				"name": "To the Bitter End",
-				"desc": "After receiving fatal damage, does not retreat and recover all HP. Additionally, gain Max HP -50%, Attack Speed +18 and DEF +18% (Can only trigger once per deployment)"
+				"desc": "After receiving fatal damage, does not retreat and instead recover all HP. Additionally, gain Max HP -50%, Attack Speed +18 and DEF +18% (Can only trigger once per deployment)"
 			},
 			{
 				"name": "To the Bitter End",
-				"desc": "After receiving fatal damage, does not retreat and recover all HP. Additionally, gain Max HP -50%, Attack Speed +21 (+3) and DEF +21% (+3%) (Can only trigger once per deployment)"
+				"desc": "After receiving fatal damage, does not retreat and instead recover all HP. Additionally, gain Max HP -50%, Attack Speed +21 (+3) and DEF +21% (+3%) (Can only trigger once per deployment)"
 			}
 		]
 	],
@@ -2425,19 +2555,19 @@
 		[
 			{
 				"name": "Reap and Nourish",
-				"desc": "Every hit against an enemy recovers 18 elemental damage to self (up to Block Count)"
+				"desc": "Every hit against an enemy recovers 18 Elemental Impairment on self (up to Block Count)"
 			},
 			{
 				"name": "Reap and Nourish",
-				"desc": "Every hit against an enemy recovers 23 (+5) elemental damage to self (up to Block Count)"
+				"desc": "Every hit against an enemy recovers 23 (+5) Elemental Impairment on self (up to Block Count)"
 			},
 			{
 				"name": "Reap and Nourish",
-				"desc": "Every hit against an enemy recovers 30 elemental damage to self (up to Block Count)"
+				"desc": "Every hit against an enemy recovers 30 Elemental Impairment on self (up to Block Count)"
 			},
 			{
 				"name": "Reap and Nourish",
-				"desc": "Every hit against an enemy recovers 35 (+5) elemental damage to self (up to Block Count)"
+				"desc": "Every hit against an enemy recovers 35 (+5) Elemental Impairment on self (up to Block Count)"
 			}
 		],
 		[
@@ -2668,6 +2798,18 @@
 			{
 				"name": "Falling Hammer",
 				"desc": "After dealing Physical damage 30 times, ATK +18% (+3%)"
+			}
+		]
+	],
+	"char_4142_laios": [
+		[
+			{
+				"name": "Dungeon Monster Expert",
+				"desc": "After defeating an enemy, Laios ignores 20% DEF when attacking other enemies with the same name"
+			},
+			{
+				"name": "Dungeon Monster Expert",
+				"desc": "After defeating an enemy, Laios ignores 40% DEF when attacking other enemies with the same name"
 			}
 		]
 	],
@@ -3233,6 +3375,88 @@
 			}
 		]
 	],
+	"char_4145_ulpia": [
+		[
+			{
+				"name": "Inherent Persistence",
+				"desc": "When receiving damage, recover 80 HP; If HP is below 50%, increase recovery to 120 HP"
+			},
+			{
+				"name": "Inherent Persistence",
+				"desc": "When receiving damage, recover 100 HP; If HP is below 50%, increase recovery to 160 HP"
+			}
+		],
+		[
+			{
+				"name": "Bloodline's Nourishment",
+				"desc": "Increase Max HP by 120 and ATK by 30 for every enemy defeated, up to 9 times. Other [Abyssal Hunter] operators gain 50% of this effect"
+			},
+			{
+				"name": "Bloodline's Nourishment",
+				"desc": "Increase Max HP by 120 and ATK by 30 for every enemy defeated, up to 10 (+1) times. Other [Abyssal Hunter] operators gain 50% of this effect"
+			}
+		]
+	],
+	"char_4058_pepe": [
+		[
+			{
+				"name": "Olden Inheritance",
+				"desc": "For every enemy defeated while skill is active, gain 1 SP when the skill ends (up to 10 SP)"
+			},
+			{
+				"name": "Olden Inheritance",
+				"desc": "For every enemy defeated while skill is active, gain 1 SP when the skill ends (up to 13 (+3) SP)"
+			},
+			{
+				"name": "Olden Inheritance",
+				"desc": "For every enemy defeated while skill is active, gain 1 SP when the skill ends (up to 14 SP)"
+			},
+			{
+				"name": "Olden Inheritance",
+				"desc": "For every enemy defeated while skill is active, gain 1 SP when the skill ends (up to 17 (+3) SP)"
+			}
+		],
+		[
+			{
+				"name": "Permeating Lotus Fragrance",
+				"desc": "When deployed, all ally [Guard] operators gain ATK +16%"
+			},
+			{
+				"name": "Permeating Lotus Fragrance",
+				"desc": "When deployed, all ally [Guard] operators gain ATK +20% (+4%)"
+			}
+		]
+	],
+	"char_1019_siege2": [
+		[
+			{
+				"name": "Sovereigns' Sighs",
+				"desc": "Vina and allies within the 8 surrounding tiles receive 12% less Physical damage. Additionally, Vina gains ATK +3% for every ally within this range"
+			},
+			{
+				"name": "Sovereigns' Sighs",
+				"desc": "Vina and allies within the 8 surrounding tiles receive 14% (+2%) less Physical damage. Additionally, Vina gains ATK +4% (+1%) for every ally within this range"
+			},
+			{
+				"name": "Sovereigns' Sighs",
+				"desc": "Vina and allies within the 8 surrounding tiles receive 20% less Physical damage. Additionally, Vina gains ATK +5% for every ally within this range"
+			},
+			{
+				"name": "Sovereigns' Sighs",
+				"desc": "Vina and allies within the 8 surrounding tiles receive 22% (+2%) less Physical damage. Additionally, Vina gains ATK +6% (+1%) for every ally within this range"
+			}
+		],
+		[
+			{
+				"name": "Unfettered Edge",
+				"desc": "The first attack against every enemy inflicts Tremble for 4 seconds"
+			},
+			{
+				"name": "Unfettered Edge",
+				"desc": "The first attack against every enemy inflicts Tremble for 5 (+1) seconds"
+			}
+		]
+	],
 	"char_285_medic2": [
 		[
 			{
@@ -3390,19 +3614,19 @@
 		[
 			{
 				"name": "Down-To-Earth",
-				"desc": "When healing ground units, increase elemental damage recovery by 10%"
+				"desc": "When healing ground units, increase Elemental Impairment recovery by 10%"
 			},
 			{
 				"name": "Down-To-Earth",
-				"desc": "When healing ground units, increase elemental damage recovery by 13% (+3%)"
+				"desc": "When healing ground units, increase Elemental Impairment recovery by 13% (+3%)"
 			},
 			{
 				"name": "Down-To-Earth",
-				"desc": "When healing ground units, increase elemental damage recovery by 20%"
+				"desc": "When healing ground units, increase Elemental Impairment recovery by 20%"
 			},
 			{
 				"name": "Down-To-Earth",
-				"desc": "When healing ground units, increase elemental damage recovery by 23% (+3%)"
+				"desc": "When healing ground units, increase Elemental Impairment recovery by 23% (+3%)"
 			}
 		]
 	],
@@ -3654,19 +3878,19 @@
 		[
 			{
 				"name": "Military Shelter",
-				"desc": "Targets within Attack Range with more than 50% accumulated elemental damage receive 12% less elemental damage"
+				"desc": "Targets within Attack Range with more than 50% accumulated Elemental Impairment receive 12% less Elemental Impairment"
 			},
 			{
 				"name": "Military Shelter",
-				"desc": "Targets within Attack Range with more than 50% accumulated elemental damage receive 15% (+3%) less elemental damage"
+				"desc": "Targets within Attack Range with more than 50% accumulated Elemental Impairment receive 15% (+3%) less Elemental Impairment"
 			},
 			{
 				"name": "Military Shelter",
-				"desc": "Targets within Attack Range with more than 50% accumulated elemental damage receive 15% less elemental damage"
+				"desc": "Targets within Attack Range with more than 50% accumulated Elemental Impairment receive 15% less Elemental Impairment"
 			},
 			{
 				"name": "Military Shelter",
-				"desc": "Targets within Attack Range with more than 50% accumulated elemental damage receive 18% (+3%) less elemental damage"
+				"desc": "Targets within Attack Range with more than 50% accumulated Elemental Impairment receive 18% (+3%) less Elemental Impairment"
 			}
 		]
 	],
@@ -3679,6 +3903,34 @@
 			{
 				"name": "Sincere Hope",
 				"desc": "When deployed, all allies gain Max HP +8%. When skill is active, all allies recover 2.5% Max HP every second"
+			}
+		]
+	],
+	"char_4139_papyrs": [
+		[
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 5% of Papyrus' ATK to the target for 8 seconds"
+			},
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 7% (+2%) of Papyrus' ATK to the target for 8 seconds"
+			},
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 10% of Papyrus' ATK to the target for 8 seconds"
+			},
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 12% (+2%) of Papyrus' ATK to the target for 8 seconds"
+			},
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 20% of Papyrus' ATK to the target for 8 seconds"
+			},
+			{
+				"name": "Ancient Scroll Study",
+				"desc": "When healing the target, grant Barrier equal to 22% (+2%) of Papyrus' ATK to the target for 8 seconds"
 			}
 		]
 	],
@@ -3836,21 +4088,21 @@
 		[
 			{
 				"name": "Dense Mist",
-				"desc": "Normal heals grant the following effect to the target for 4 seconds (stacks up to 3 layers): Recover HP and elemental damage equal to 8% of the original heal amount every second"
+				"desc": "Normal heals grant the following effect to the target for 4 seconds (stacks up to 3 layers): Recover HP and Elemental Impairment equal to 8% of the original heal amount every second"
 			},
 			{
 				"name": "Dense Mist",
-				"desc": "Normal heals grant the following effect to the target for 6 seconds (stacks up to 3 layers): Recover HP and elemental damage equal to 10% of the original heal amount every second"
+				"desc": "Normal heals grant the following effect to the target for 6 seconds (stacks up to 3 layers): Recover HP and Elemental Impairment equal to 10% of the original heal amount every second"
 			}
 		],
 		[
 			{
 				"name": "Volcanic Ash Remedy",
-				"desc": "Allies within Attack Range gain Max HP +6% and receive 12% less elemental damage"
+				"desc": "Allies within Attack Range gain Max HP +6% and receive 12% less Elemental Impairment"
 			},
 			{
 				"name": "Volcanic Ash Remedy",
-				"desc": "Allies within Attack Range gain Max HP +8% (+2%) and receive 12% less elemental damage"
+				"desc": "Allies within Attack Range gain Max HP +8% (+2%) and receive 12% less Elemental Impairment"
 			}
 		]
 	],
@@ -4480,6 +4732,14 @@
 			{
 				"name": "Unwilling to be Outdone",
 				"desc": "After not attacking for 2 seconds, the next attack will deal 133% (+3%) damage"
+			},
+			{
+				"name": "Unwilling to be Outdone",
+				"desc": "After not attacking for 2 seconds, the next attack will deal 138% (+3%) damage"
+			},
+			{
+				"name": "Unwilling to be Outdone",
+				"desc": "After not attacking for 2 seconds, the next attack will deal 138% damage"
 			}
 		]
 	],
@@ -4827,6 +5087,36 @@
 			}
 		]
 	],
+	"char_4138_narant": [
+		[
+			{
+				"name": "“I see, I conquered”",
+				"desc": "When deployed, attacks Steal 15 ATK (up to 150) and 10 DEF (up to 100)"
+			},
+			{
+				"name": "“I see, I conquered”",
+				"desc": "When deployed, attacks Steal 17 (+2) ATK (up to 170 (+20)) and 11 (+1) DEF (up to 110 (+10))"
+			},
+			{
+				"name": "“I see, I conquered”",
+				"desc": "When deployed, attacks Steal 25 ATK (up to 250) and 20 DEF (up to 200)"
+			},
+			{
+				"name": "“I see, I conquered”",
+				"desc": "When deployed, attacks Steal 27 (+2) ATK (up to 270 (+20)) and 21 (+1) DEF (up to 210 (+10))"
+			}
+		],
+		[
+			{
+				"name": "Graceful Silhouette",
+				"desc": "Gain 35% Physical and Arts Evasion. Inflict -20% Physical and Arts Accuracy to enemies in the 8 surrounding tiles"
+			},
+			{
+				"name": "Graceful Silhouette",
+				"desc": "Gain 38% (+3%) Physical and Arts Evasion. Inflict -20% Physical and Arts Accuracy to enemies in the 8 surrounding tiles"
+			}
+		]
+	],
 	"char_376_therex": [
 		[
 			{
@@ -4953,6 +5243,26 @@
 			{
 				"name": "Plant Self-Regeneration",
 				"desc": "<Substitute> recovers 4% (+0.5%) HP every second"
+			}
+		]
+	],
+	"char_4165_ctrail": [
+		[
+			{
+				"name": "Low-Altitude Turbulence",
+				"desc": "When on the ground, DEF +5%. After Liftoff, attacks deal 105% damage"
+			},
+			{
+				"name": "Low-Altitude Turbulence",
+				"desc": "When on the ground, DEF +7% (+2%). After Liftoff, attacks deal 107% (+2%) damage"
+			},
+			{
+				"name": "Low-Altitude Turbulence",
+				"desc": "When on the ground, DEF +10%. After Liftoff, attacks deal 110% damage"
+			},
+			{
+				"name": "Low-Altitude Turbulence",
+				"desc": "When on the ground, DEF +12% (+2%). After Liftoff, attacks deal 112% (+2%) damage"
 			}
 		]
 	],
@@ -5334,6 +5644,60 @@
 			}
 		]
 	],
+	"char_4151_tinman": [
+		[
+			{
+				"name": "“On the Road”",
+				"desc": "In [Sarkaz's Furnaceside Fables], Hope cost -1 when recruiting"
+			},
+			{
+				"name": "“On the Road”",
+				"desc": "In [Sarkaz's Furnaceside Fables], Hope cost -2 when recruiting. Additionally, increase the Burden Threshold by +3 when used as a Burden Bearer"
+			},
+			{
+				"name": "“On the Road”",
+				"desc": "In [Sarkaz's Furnaceside Fables], Hope cost -2 when recruiting. Additionally, increase the Burden Threshold by +4 (+1) when used as a Burden Bearer"
+			},
+			{
+				"name": "“On the Road”",
+				"desc": "In [Sarkaz's Furnaceside Fables], Hope cost -2 when recruiting. Additionally, increase the Burden Threshold by +9 when used as a Burden Bearer"
+			},
+			{
+				"name": "“On the Road”",
+				"desc": "In [Sarkaz's Furnaceside Fables], Hope cost -2 when recruiting. Additionally, increase the Burden Threshold by +10 (+1) when used as a Burden Bearer"
+			}
+		],
+		[
+			{
+				"name": "Withering Spirits",
+				"desc": "Increase continuous damage taken by ground enemies within the effect range of Tin Man's Alchemical Units by 20%"
+			},
+			{
+				"name": "Withering Spirits",
+				"desc": "Increase continuous damage taken by ground enemies within the effect range of Tin Man's Alchemical Units by 22% (+2%)"
+			}
+		]
+	],
+	"char_4155_talr": [
+		[
+			{
+				"name": "Selective Clientele",
+				"desc": "When attacking enemies not blocked by self, increase damage dealt by 10%"
+			},
+			{
+				"name": "Selective Clientele",
+				"desc": "When attacking enemies not blocked by self, increase damage dealt by 15% (+5%)"
+			},
+			{
+				"name": "Selective Clientele",
+				"desc": "When attacking enemies not blocked by self, increase damage dealt by 20%"
+			},
+			{
+				"name": "Selective Clientele",
+				"desc": "When attacking enemies not blocked by self, increase damage dealt by 25% (+5%)"
+			}
+		]
+	],
 	"char_225_haak": [
 		[
 			{
@@ -5677,6 +6041,28 @@
 			{
 				"name": "Light-Devouring Afterimage",
 				"desc": "Attack Speed +10 (+2). If there are high tiles within the 4 adjacent tiles, gain an additional Attack Speed +6"
+			}
+		]
+	],
+	"char_1502_crosly": [
+		[
+			{
+				"name": "Swallowing Bitterness",
+				"desc": "When skill is active, generate a smokescreen around self. Ground enemies within the smokescreen have -15% Physical and Arts Accuracy"
+			},
+			{
+				"name": "Swallowing Bitterness",
+				"desc": "When skill is active, generate a smokescreen around self. Ground enemies within the smokescreen have -20% Physical and Arts Accuracy"
+			}
+		],
+		[
+			{
+				"name": "Crownslayer's Prestige",
+				"desc": "Increase damage dealt by 20% against ground enemies that have not damaged self"
+			},
+			{
+				"name": "Crownslayer's Prestige",
+				"desc": "Increase damage dealt by 22% (+2%) against ground enemies that have not damaged self"
 			}
 		]
 	],
@@ -6124,6 +6510,90 @@
 			{
 				"name": "Be Good and Obedient",
 				"desc": "Attack Speed +12 (+2). If the target is a [Wild Animal], slightly increase the duration of Slow effect from Trait (+0.4)"
+			}
+		]
+	],
+	"char_4079_haini": [
+		[
+			{
+				"name": "Unexpected Use of Survey Tools",
+				"desc": "Apply 8% Fragility effect to non-elite and boss enemies within Attack Range"
+			},
+			{
+				"name": "Unexpected Use of Survey Tools",
+				"desc": "Apply 10% (+2%) Fragility effect to non-elite and boss enemies within Attack Range"
+			},
+			{
+				"name": "Unexpected Use of Survey Tools",
+				"desc": "Apply 16% Fragility effect to non-elite and boss enemies within Attack Range"
+			},
+			{
+				"name": "Unexpected Use of Survey Tools",
+				"desc": "Apply 18% (+2%) Fragility effect to non-elite and boss enemies within Attack Range"
+			}
+		]
+	],
+	"char_4140_lasher": [
+		[
+			{
+				"name": "Craftman's Teachings",
+				"desc": "Can summon 3 Clockwork Fowlbeasts to assist in battle. Sand Reckoner and the Clockwork Fowlbeasts deal 10% more damage to mechanical enemies"
+			},
+			{
+				"name": "Craftman's Teachings",
+				"desc": "Can summon 4 Clockwork Fowlbeasts to assist in battle. Sand Reckoner and the Clockwork Fowlbeasts deal 20% more damage to mechanical enemies"
+			},
+			{
+				"name": "Craftman's Teachings",
+				"desc": "Can summon 5 Clockwork Fowlbeasts to assist in battle. Sand Reckoner and the Clockwork Fowlbeasts deal 20% more damage to mechanical enemies"
+			}
+		]
+	],
+	"char_4162_cathy": [
+		[
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 2 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 10% of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			},
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 2 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 12% (+2%) of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			},
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 3 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 15% of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			},
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 3 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 17% (+2%) of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			},
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 3 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 20% of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			},
+			{
+				"name": "Directional Support Signal",
+				"desc": "Carries 3 Support Devices (can only deploy 2). The Support Devices grant Barrier equal to 22% (+2%) of Catherine's Max HP to an operator (if the target has not been attacked in the last 5 seconds, recover Barrier equal to 6% of Catherine's Max HP every second, up to the original Barrier amount). Device effects do not stack"
+			}
+		]
+	],
+	"char_487_bobb": [
+		[
+			{
+				"name": "Focused Induction",
+				"desc": "The first attack against every enemy causes them to take Burn damage equal to 10% of Bobbing's ATK every second for 5 seconds"
+			},
+			{
+				"name": "Focused Induction",
+				"desc": "The first attack against every enemy causes them to take Burn damage equal to 12% (+2%) of Bobbing's ATK every second for 5 seconds"
+			},
+			{
+				"name": "Focused Induction",
+				"desc": "The first attack against every enemy causes them to take Burn damage equal to 16% of Bobbing's ATK every second for 5 seconds"
+			},
+			{
+				"name": "Focused Induction",
+				"desc": "The first attack against every enemy causes them to take Burn damage equal to 18% (+2%) of Bobbing's ATK every second for 5 seconds"
 			}
 		]
 	],
@@ -6762,6 +7232,42 @@
 			}
 		]
 	],
+	"char_4147_mitm": [
+		[
+			{
+				"name": "Scrap Robot",
+				"desc": "Can summon Cherry-3 at the tactical point. After being defeated, Cherry-3 generates wreckage in the 4 surrounding tiles and will automatically respawn after 20 seconds"
+			},
+			{
+				"name": "Scrap Robot",
+				"desc": "Can summon Cherry-3 at the tactical point. After being defeated, Cherry-3 generates wreckage in the 4 surrounding tiles and will automatically respawn after 17 seconds"
+			},
+			{
+				"name": "Scrap Robot",
+				"desc": "Can summon Cherry-3 at the tactical point. After being defeated, Cherry-3 generates wreckage in the 4 surrounding tiles and will automatically respawn after 15 seconds"
+			}
+		]
+	],
+	"char_4144_chilc": [
+		[
+			{
+				"name": "Keen Senses",
+				"desc": "After deployment, prevent self and allies within Attack Range from receiving damage from the natural environment and Elemental Impairment for 35 seconds"
+			},
+			{
+				"name": "Keen Senses",
+				"desc": "After deployment, prevent self and allies within Attack Range from receiving damage from the natural environment and Elemental Impairment for 40 (+5) seconds"
+			},
+			{
+				"name": "Keen Senses",
+				"desc": "After deployment, prevent self and allies within Attack Range from receiving damage from the natural environment and Elemental Impairment for 45 seconds"
+			},
+			{
+				"name": "Keen Senses",
+				"desc": "After deployment, prevent self and allies within Attack Range from receiving damage from the natural environment and Elemental Impairment for 50 (+5) seconds"
+			}
+		]
+	],
 	"char_112_siege": [
 		[
 			{
@@ -6963,6 +7469,28 @@
 			{
 				"name": "Resource Conservation",
 				"desc": "When in team, deployment cost of [Rhine Labs] operators -2. The first [Rhine Labs] operator deployed has an additional -2 (+1) deployment cost"
+			}
+		]
+	],
+	"char_4026_vulpis": [
+		[
+			{
+				"name": "Chasing the Culprit",
+				"desc": "After dealing damage to an enemy for the first time, Vulpisfoglia deals an additional 20% Arts damage when dealing damage to that enemy for 10 seconds"
+			},
+			{
+				"name": "Chasing the Culprit",
+				"desc": "After dealing damage to an enemy for the first time, Vulpisfoglia deals an additional 30% Arts damage when dealing damage to that enemy for 10 seconds"
+			}
+		],
+		[
+			{
+				"name": "Building Momentum",
+				"desc": "When deployed, natural DP regeneration +10%. If Vulpisfoglia has not taken damage within the last 4 seconds, recover 4% Max HP every second"
+			},
+			{
+				"name": "Building Momentum",
+				"desc": "When deployed, natural DP regeneration +10%. If Vulpisfoglia has not taken damage within the last 4 seconds, recover 5% (+1%) Max HP every second"
 			}
 		]
 	]

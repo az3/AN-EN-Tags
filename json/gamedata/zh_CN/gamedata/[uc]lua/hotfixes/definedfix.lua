@@ -3,8 +3,7 @@ local list =
 {
   
   "HotFixes/TestStubHotfixer",
-  "HotFixes/RemovableSharedRandomTileGlobalBuffHotfixer",
-  "HotFixes/NameCardEditHotfixer"
+  "HotFixes/V057Hotfixer",
 };
 
 return list;

@@ -518,6 +518,20 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "camp_zone_13": {
+      "zoneID": "camp_zone_13",
+      "zoneIndex": 0,
+      "type": "CAMPAIGN",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "tower_tr_01": {
       "zoneID": "tower_tr_01",
       "zoneIndex": 0,
@@ -700,6 +714,48 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "tower_n_15": {
+      "zoneID": "tower_n_15",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "tower_n_16": {
+      "zoneID": "tower_n_16",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "tower_n_17": {
+      "zoneID": "tower_n_17",
+      "zoneIndex": 0,
+      "type": "CLIMB_TOWER",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "tower_n_01": {
       "zoneID": "tower_n_01",
       "zoneIndex": 0,
@@ -804,6 +860,300 @@
       "type": "ROGUELIKE",
       "zoneNameFirst": null,
       "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act39side_zone1": {
+      "zoneID": "act39side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "盐漠开航",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act39side_zone2": {
+      "zoneID": "act39side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "穿越骸礁",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1vautochess_zone1": {
+      "zoneID": "act1vautochess_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act29sre_zone1": {
+      "zoneID": "act29sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "朝见双塔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act29sre_zone2": {
+      "zoneID": "act29sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "恩典永恒",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act29sre_zone3": {
+      "zoneID": "act29sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "权威无情",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act38side_zone1": {
+      "zoneID": "act38side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "四幕汇演",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act38side_zone2": {
+      "zoneID": "act38side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "彩车游行",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act38side_zone3": {
+      "zoneID": "act38side_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "荒芜之舞",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act37side_zone1": {
+      "zoneID": "act37side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "无名之勋",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act37side_zone2": {
+      "zoneID": "act37side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "未了往昔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1vecb_zone1": {
+      "zoneID": "act1vecb_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "第一阶段",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1vecb_zone2": {
+      "zoneID": "act1vecb_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act1vecb_zone3": {
+      "zoneID": "act1vecb_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": null,
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act28sre_zone1": {
+      "zoneID": "act28sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "苍白平台",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act28sre_zone2": {
+      "zoneID": "act28sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "黑色舰船",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act36side_zone1": {
+      "zoneID": "act36side_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "品尝魔物",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act36side_zone2": {
+      "zoneID": "act36side_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "走遍泰拉",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone1": {
+      "zoneID": "act27sre_zone1",
+      "zoneIndex": 0,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "温泉假日",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone2": {
+      "zoneID": "act27sre_zone2",
+      "zoneIndex": 1,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "城市寻宝",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "act27sre_zone3": {
+      "zoneID": "act27sre_zone3",
+      "zoneIndex": 2,
+      "type": "ACTIVITY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "岩浆冲浪",
       "zoneNameTitleCurrent": null,
       "zoneNameTitleUnCurrent": null,
       "zoneNameTitleEx": null,
@@ -3528,6 +3878,34 @@
       "canPreview": false,
       "hasAdditionalPanel": false
     },
+    "permanent_sub_7_zone1": {
+      "zoneID": "permanent_sub_7_zone1",
+      "zoneIndex": 0,
+      "type": "BRANCHLINE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "无名之勋",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sub_7_zone2": {
+      "zoneID": "permanent_sub_7_zone2",
+      "zoneIndex": 1,
+      "type": "BRANCHLINE",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "未了往昔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
     "permanent_sidestory_1_zone1": {
       "zoneID": "permanent_sidestory_1_zone1",
       "zoneIndex": 0,
@@ -4199,6 +4577,118 @@
       "lockedText": null,
       "canPreview": false,
       "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone1": {
+      "zoneID": "permanent_sidestory_17_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "温泉假日",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone2": {
+      "zoneID": "permanent_sidestory_17_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "城市寻宝",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_17_zone3": {
+      "zoneID": "permanent_sidestory_17_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "岩浆冲浪",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_22_zone1": {
+      "zoneID": "permanent_sidestory_22_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "苍白平台",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_22_zone2": {
+      "zoneID": "permanent_sidestory_22_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "黑色舰船",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_23_zone1": {
+      "zoneID": "permanent_sidestory_23_zone1",
+      "zoneIndex": 0,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "朝见双塔",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_23_zone2": {
+      "zoneID": "permanent_sidestory_23_zone2",
+      "zoneIndex": 1,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "恩典永恒",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
+    },
+    "permanent_sidestory_23_zone3": {
+      "zoneID": "permanent_sidestory_23_zone3",
+      "zoneIndex": 2,
+      "type": "SIDESTORY",
+      "zoneNameFirst": null,
+      "zoneNameSecond": "权威无情",
+      "zoneNameTitleCurrent": null,
+      "zoneNameTitleUnCurrent": null,
+      "zoneNameTitleEx": null,
+      "zoneNameThird": null,
+      "lockedText": null,
+      "canPreview": false,
+      "hasAdditionalPanel": false
     }
   },
   "weeklyAdditionInfo": {
@@ -4288,6 +4778,90 @@
     }
   },
   "zoneValidInfo": {
+    "act39side_zone1": {
+      "startTs": 1733371200,
+      "endTs": 1734551999
+    },
+    "act39side_zone2": {
+      "startTs": 1733990400,
+      "endTs": 1734551999
+    },
+    "act1vautochess_zone1": {
+      "startTs": 1731657600,
+      "endTs": 1732823999
+    },
+    "act29sre_zone1": {
+      "startTs": 1732521600,
+      "endTs": 1733342399
+    },
+    "act29sre_zone2": {
+      "startTs": 1732521600,
+      "endTs": 1733342399
+    },
+    "act29sre_zone3": {
+      "startTs": 1732521600,
+      "endTs": 1733342399
+    },
+    "act38side_zone1": {
+      "startTs": 1730433600,
+      "endTs": 1732219199
+    },
+    "act38side_zone2": {
+      "startTs": 1731052800,
+      "endTs": 1732219199
+    },
+    "act38side_zone3": {
+      "startTs": 1731657600,
+      "endTs": 1732219199
+    },
+    "act37side_zone1": {
+      "startTs": 1728446400,
+      "endTs": 1729627199
+    },
+    "act37side_zone2": {
+      "startTs": 1729065600,
+      "endTs": 1729627199
+    },
+    "act1vecb_zone1": {
+      "startTs": 1727424000,
+      "endTs": 1728590399
+    },
+    "act1vecb_zone2": {
+      "startTs": 1727899200,
+      "endTs": 1728590399
+    },
+    "act1vecb_zone3": {
+      "startTs": 1727424000,
+      "endTs": 1728590399
+    },
+    "act28sre_zone1": {
+      "startTs": 1726732800,
+      "endTs": 1727553599
+    },
+    "act28sre_zone2": {
+      "startTs": 1726732800,
+      "endTs": 1727553599
+    },
+    "act36side_zone1": {
+      "startTs": 1725249600,
+      "endTs": 1726430399
+    },
+    "act36side_zone2": {
+      "startTs": 1725868800,
+      "endTs": 1726430399
+    },
+    "act27sre_zone1": {
+      "startTs": 1724313600,
+      "endTs": 1725134399
+    },
+    "act27sre_zone2": {
+      "startTs": 1724313600,
+      "endTs": 1725134399
+    },
+    "act27sre_zone3": {
+      "startTs": 1724313600,
+      "endTs": 1725134399
+    },
     "act35side_zone1": {
       "startTs": 1722484800,
       "endTs": 1724270399

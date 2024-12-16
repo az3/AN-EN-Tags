@@ -148,7 +148,8 @@
         "value": 0.0,
         "valueStr": null
       }
-    ]
+    ],
+    "enemyTauntLevelPow": 0
   },
   "levelId": null,
   "mapId": null,
@@ -13829,6 +13830,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13852,6 +13854,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13875,6 +13878,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13898,6 +13902,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13921,6 +13926,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13944,6 +13950,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -13980,6 +13987,7 @@
               "refreshType": "ALWAYS",
               "weight": 0,
               "dontBlockWave": true,
+              "forceBlockWaveInBranch": false,
               "isValid": false,
               "extraMeta": null,
               "actionId": null
@@ -16151,5 +16159,6 @@
   "excludeCharIdList": null,
   "randomSeed": 2052566155,
   "operaConfig": "sandbox_v2_dlc1",
+  "cameraPlugin": null,
   "runtimeData": null
 }
